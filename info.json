@@ -1,0 +1,17 @@
+{
+    "name": "Carlos Godoy",
+    "website": "https://carlosgodoy.dev",
+    "linkedin": "https://www.linkedin.com/in/thecarlosgodoy/",
+    "github": "cgod720",
+    "email": "carlos.godoy@generalassemb.ly",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django"
+    ]
+}
